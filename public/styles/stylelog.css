@@ -1,0 +1,19 @@
+.button {
+	background-color: #CB88E7;
+	border-top-color: #E8CAF4;
+	border-right-color: #E8CAF4;
+	border-bottom-color: #E8CAF4;
+	border-left-color: #E8CAF4;
+	border-top-width: 1px;
+	border-right-width: 1px;
+	border-bottom-width: 1px;
+	border-left-width: 1px;
+}
+.tbuser {
+	background-color:#EFEDED;
+	border-color:#EFEDED;
+	border-style:double;
+}
+.borderviolet {
+	border: 7px solid #CB88E7;
+}
